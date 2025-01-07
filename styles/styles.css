@@ -399,6 +399,10 @@
   width: 85%;
   animation-name: jquery;
 }
+.skills-bar .bar .react {  
+  width: 50%;
+  animation-name: react;
+}
 
 
 @keyframes html {  
@@ -441,6 +445,10 @@
 @keyframes angular {  
   0% {width: 0%;}  
   100% { width : 92%}   
+}
+@keyframes react {  
+  0% {width: 0%;}  
+  100% { width : 50%}   
 }
 
 @keyframes fontsMoving {  
